@@ -1,0 +1,21 @@
+{
+  "name": "yogurt-candybar",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/yogurt.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogurt-foundation/yogurt-candybar.git"
+  },
+  "author": "Loouis Low (loouis@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yogurt-foundation/yogurt-candybar/issues"
+  },
+  "homepage": "https://github.com/yogurt-foundation/yogurt-candybar#readme",
+  "type": "module",
+  "keywords": [],
+  "dependencies": {},
+  "devDependencies": {}
+}
